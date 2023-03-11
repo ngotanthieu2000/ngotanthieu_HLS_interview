@@ -4,8 +4,9 @@ import Avatar from '../Avatar/Avatar';
 import Logo from '../Logo/Logo';
 const styles = StyleSheet.create({
   container: {
-    paddingLeft: 50,
-    paddingRight: 50,
+    paddingLeft: 5,
+    paddingRight: 5,
+    padding: 5,
     flexDirection: 'row',
     justifyContent: 'space-between',
     color: 'blue',
